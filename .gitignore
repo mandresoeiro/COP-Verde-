@@ -1,0 +1,12 @@
+
+# Global (comum para todo o projeto)
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+.vscode/
+.idea/
+.env
+.bkp
+COP_Verde_Docs
